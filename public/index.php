@@ -1,3 +1,3 @@
 <?php
-echo "Good afternoon";
+echo "Good afternoon"; 
 ?>
